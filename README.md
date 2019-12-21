@@ -1,3 +1,8 @@
+# 習志野グローバルアーキテクチャ
+オープンソースで汎用的な5-inchゲージアーキテクチャ
+私たちの5-inchゲージは、世界初のオープンソース<br>5-inchゲージアーキテクチャです。<br>
+
+
 # Narashino-architecture
 
 #Our opensource 5-inch train model project is launched.
