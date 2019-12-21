@@ -1,6 +1,6 @@
 # Narashino-architecture
 
-#Our opensource 5-inch train model project is lunched.
+#Our opensource 5-inch train model project is launched.
 "A cat is there"But we can use 5-inch trains,so we will get
 "A cat is here" soon.
 
